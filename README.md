@@ -1,5 +1,3 @@
-# Infant-Gut-Microbiome-Model
-
 ## Overview
 
 This repository contains the source code accompanying the manuscript:
