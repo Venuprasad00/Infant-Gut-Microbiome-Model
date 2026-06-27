@@ -24,7 +24,7 @@ The framework was developed to investigate microbiome restoration following C-se
 | File                                 | Description                                                                                                                                            |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `ODEModelFile.jl`                    | Julia implementation of the mechanistic ordinary differential equation (ODE) model describing microbial population dynamics and substrate utilization. |
-| `MLE_Parameter_Estimates_MATLAB.csv` | Maximum likelihood parameter estimates and 95% confidence intervals obtained from MATLAB parameter estimation.                                         |
+| `ImportParameters.jl`                | Loads model parameters and initial conditions used in the simulations.                                      |
 
 ---
 
